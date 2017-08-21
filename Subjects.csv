@@ -1,0 +1,596 @@
+subject_no,subject_name,subject_units
+A,Discrete Structures in Computer Science,3
+B,Principles of Programming,3
+C,Computer Systems and Organization,3
+D,Data Structures and Algorithms,3
+E,Data Communications and Networking,3
+F,Database Management Systems,3
+G,Introduction to Management Information ,3
+0,Systems,3
+H,Object-Oriented Analysis and Design,3
+I,Principles of Software Engineering,3
+J,Programming Languages,3
+K,Operating Systems,3
+L,Introduction to Computing Theory,3
+M,Algorithm Analysis,3
+1,Introduction to Personal Computing,3
+2,Introduction to the Internet,3
+2A,Introduction to the Internet,3
+2B,Introduction to the Internet,3
+11,Introduction to Computer Science,3
+21,Fundamentals of Programming,3
+22,Object-Oriented Programming,3
+22A,Object Oriented Programming,3
+22B,Object Oriented Programming,3
+55,Discrete Math Structures in Cmsc,3
+56,Discrete Mathematical Structures in ,3
+0,Computer Science I,3
+57,Discrete Mathematical Structures in ,3
+0,Computer Science II,3
+100,Web Programming,3
+123,Data Structures,3
+124,Design and Implementation of Programming ,3
+0,Languages,3
+125,Operating Systems,3
+127,File Processing and Database Systems,3
+128,Introduction to Software Engineering,3
+129,Principles of Compiler Design,3
+130,Logic Design and Digital Computer Circuits,3
+131,Introduction to Computer Organization and ,3
+0,Machine Level Programming,3
+132,Computer Architecture,3
+137,Data Communications and Networking,3
+140,Advanced Programming,3
+141,Automata and Language Theory,3
+142,Design and Analysis of Algorithms,3
+150,Numerical and Symbolic Computations,3
+161,Interactive Computer Graphics,3
+165,Digital Image Processing,3
+170,Introduction to Artificial Intelligence,3
+172,Robot Modeling,3
+180,Introduction to Parallel Computing,3
+190,Special Problems,1
+191,Special Topics,3
+191A,Special Topics,3
+198,Practicum,1
+199,Undergraduate Seminar,1
+200,Undergraduate Thesis,3
+214,Programming Language Design Concepts,3
+215,Advanced Computer Systems,3
+220,Computer System Performance Evaluation,3
+221,Portability of Systems,3
+222,Information Retrieval,3
+224,Advanced Programming Languages,3
+225,Advanced Operating Systems,3
+227,Advanced Database Systems,3
+228,Software Engineering,3
+229,Compiler Construction,3
+231,Advanced Computer Architecture,3
+241,"Formal Languages, Automata Theory & Computations",3
+242,Complexity of Algorithms,3
+243,Combinatorial Algorithms,3
+244,Algorithms and Advanced Data Structures I,3
+245,Algorithms and Advanced Data Structures II,3
+250,Scientific Computing,3
+265,Advanced Digital Image Processing,3
+271,Management Information Systems,3
+272,Strategic Information Systems Development,3
+280,Parallel Processing,3
+290,Special Problems,3
+291,Special Topics,3
+299,Graduate Seminar,3
+300,Master's Thesis,3
+341,Advanced Theory of Computation,3
+342,Computational Complexity Theory,3
+391,Special Topics,3
+399,Graduate Seminar,3
+400,Doctoral Dissertation,3
+1,Fundamentals of Agricultural and Biosystems ,3
+0,Engineering I,3
+2,Fundamentals of Agricultural and Biosystems Engineering II,3
+11,Agricultural Structures I,3
+12,Environmental Control Engineering,3
+30,Introduction to Agricultural and Biosystems ,3
+0,Engineering,3
+31,Engineering Shop,3
+40,Machine Design for Bio-Production Systems I,3
+41,Agricultural and Biosystems Power Engineering,3
+42,Machinery for Bio-Production Systems,3
+47,Electrical System Design for Agricultural and ,3
+0,Biosystems Structures,3
+49,Agricultural Engineering Law,3
+50,Refrigeration and Cold Storage,3
+51,Crop Processing I,3
+70,Fundamentals of Surveying,3
+71,Field Hydrology,3
+72,ABE 72,3
+73,Soil and Water Conservation Engineering,3
+81,Aquaculture Engineering I,3
+110,Plant Climate,3
+111,Agricultural Structures II,3
+112,Agricultural Waste Management,3
+113,Farmstead Planning,3
+114,Spatial Analysis in Hydrometeorology,3
+115,Agricultural Structures III,3
+131,Tractor-Implement Performance Analysis,3
+136,Design of Biomass Energy Systems,3
+137,Design of Solar Energy Systems,3
+138,Design at Wind and Hydro Energy Systems,3
+140,Machine Design for Bio-Production Systems II,3
+141,Tractor-Implement Performance Analysis,3
+142,Agricultural Mechanization,3
+143,Manufacturing Processes,3
+145,Soil-Machine Mechanics,3
+147,Mechatronics for Agriculture and Biosystems,3
+150,Materials Handling,3
+151,Crop Processing II,3
+152,Crop Processing Plant Design and Management,3
+153,Rheology of Biological Materials,3
+154,Fuels and Combustion for Applications in ,3
+0,Agriculture and Biosystems,3
+155,Intermediate Thermodynamics,3
+156,Intermediate Refrigeration in Agriculture and ,3
+0,Biosystems,3
+157,Postharvest Engineering of Perishable Crops,3
+172,Irrigation and Drainage Engineering II,3
+174,Open Channel Hydraulics,3
+175,Water Control Structures,3
+177,Principles of Tropical Water Quality Management,3
+179,Water Resources Planning,3
+180,Soil Engineering,3
+181,Aquaculture Engineering II,3
+190,Special Problems,3
+191,Special Topics,3
+199,Undergraduate Seminar,3
+200,Undergraduate Thesis,3
+200A,Practicum,3
+A,Agribusiness Commodity Systems,3
+B,Enterprise FormationProj Mgt,3
+C,Mgt Sys for Farm Enterprises,3
+D,MgtSys fr Proc PlantsServ Ent,3
+E,Research Methods in Agribus,3
+103,Introduction to Agribusiness Management,3
+171,Organization of Small Business,3
+180,Agribusiness Research Methodologies,3
+190,Special Problems in Agribusiness,3
+203,Advanced Agribusiness,3
+205,Agribusiness Management,3
+241,Agricultural Production Mgt,3
+298,Field Studies,3
+11,Introduction to Agricultural Biotechnology,3
+101,Fundamentals of Agricultural Biotechnology,3
+105,Experimental Techniques in Agricultural Biotechnology,3
+106,Molecular Markers,3
+107,Recombinant DNA Technology,3
+108,Issues and Regulation of Agricultural Biotechnology,3
+115,Fundamentals of Food Biotechnology,3
+120,Animal Biotechnology,3
+140,Biotech in Crop Protection,3
+190,Special Problems,3
+191,Special Topics,3
+199,Undergraduate Seminar,3
+200,Undergraduate Thesis,3
+200A,Major Farm Practice,3
+11,Introduction to Agricultural Biotechnology,3
+101,Fundamentals of Agricultural Biotechnology,3
+105,Experimental Techniques in Agricultural Biotechnology,3
+106,Molecular Markers,3
+107,Recombinant DNA Technology,3
+108,Issues and Regulation of Agricultural Biotechnology,3
+B,Market DevInst'l Support Sys,3
+C,Prod Econ and Farm Development,3
+1,Fundamentals of Agricultural Management,3
+10,Introduction to Agricultural Economics,3
+103,Statistical Analysis of Agricultural Economic ,3
+104,Principles of Farm Business Accounting,3
+110,Agricultural Production Economics,3
+111,Farm Management,3
+112,Farm Management Practice,3
+120,Agricultural Marketing I,3
+121,Agricultural Marketing II,3
+122,Agricultural Price Analysis,3
+123,Agricultural and International Trade,3
+130,Agricultural Finance,3
+136,Cooperatives,3
+140,Land Economics,3
+141,Introduction to Feasibility Studies in Agriculture,3
+150,Economics of Agricultural Development,3
+151,Agricultural Policy,3
+160,Introduction to Research Methods in Agricultural Economics ,3
+190,Special Problems,3
+199,Undergraduate Seminar,3
+199A,Thesis Outline,3
+199B,Thesis Manuscript,3
+200,Undergraduate Thesis,3
+200A,Major Farm Practice,3
+210,Adv Agri Production Economics,3
+211,Advanced Farm Management,3
+214,Econ AnalyPlanng of Agri Proj,3
+220,Econ of Agricultural Marketing,3
+222,Agricultural Prices,3
+230,Advanced Agricultural Finance,3
+240,Natural Resource Economics,3
+241,Econ AnalyPlanng of Agri Proj,3
+248,EconAnaly&Des of NatResEnvPol,3
+250,Agri and Economic Development,3
+251,Agri Prog for Econ Development,3
+252,Agricultural Administration,3
+253,Applied Regional Economics,3
+260,Research in Agri Economics,3
+261,Food and Nutrition Economics,3
+290,Special Problems,3
+291,Special Topics,3
+298,Field Studies,3
+299,Grad Seminar in Agri Economics,3
+300,Master's Thesis,3
+320,Org & Perfrmnce of Agri Mrkts,3
+400,Doctoral Dissertation,3
+11,Introduction to Agricultural Biotechnology,3
+101,Fundamentals of Agricultural Biotechnology,3
+105,Experimental Techniques in Agricultural Biotechnology,3
+106,Molecular Markers,3
+107,Recombinant DNA Technology,3
+108,Issues and Regulation of Agricultural Biotechnology,3
+B,Market DevInst'l Support Sys,3
+C,Prod Econ and Farm Development,3
+1,Fundamentals of Agricultural Management,3
+10,Introduction to Agricultural Economics,3
+103,Statistical Analysis of Agricultural Economic ,3
+104,Principles of Farm Business Accounting,3
+110,Agricultural Production Economics,3
+111,Farm Management,3
+112,Farm Management Practice,3
+1,Fundamentals of Agricultural Engineering I,3
+2,Fundamentals of Agricultural Engineering II,3
+10,Introduction to Agricultural Engineering,3
+11,Engineering Shop,3
+12,Benchwork and Forging,3
+13,Machine Tools,3
+30,Refrigeration and Air Conditioning,3
+31,Crop Processing I,3
+37,Fundamentals of Biosystems Engineering,3
+40,Fundamentals of Surveying,3
+41,Irrigation and Drainage Engineering I,3
+42,Soil and Water Conservation Engineering,3
+50,Hydrometeorology,3
+51,Agricultural Structures I,3
+52,Environmental Control Engineering,3
+60,Machine Design I,3
+61,Agricultural Energy and Power Engineering,3
+62,Agricultural Machinery,3
+70,Farm Electrification Design,3
+90,Agricultural Engineering Law,3
+111,Advanced Mathematical Methods in Agricultural ,3
+0,Engineering,3
+130,Materials Handling,3
+131,Crop Processing II,3
+132,Crop Processing Plant Design and Management,3
+133,Rheology of Biological Materials,3
+134,Fuels and Combustion,3
+135,Intermediate Thermodynamics,3
+136,Intermediate Refrigeration Engineering,3
+140,Field Hydrology,3
+141,Irrigation Engineering I,3
+142,Irrigation Engineering II,3
+143,Fundamentals of Drainage Engineering,3
+144,Open Channel Hydraulics,3
+145,Water Control Structures,3
+146,Soil and Water Conservation Engineering,3
+147,Principles of Tropical Water Quality Management,3
+148,Operations Research for Engineers,3
+149,Water Resources Planning,3
+150,Plant Climate,3
+151,Agricultural Structure II,3
+152,Agricultural Waste Management,3
+153,Farmstead Planning,3
+154,Spatial Analysis in Hydrometeorology,3
+155,Agricultural Structures III,3
+160,Machine Design II,3
+161,Tractor-Implement Performance Analysis,3
+162,Agricultural Mechanization,3
+163,Manufacturing Processes,3
+165,Soil-Machine Mechanics,3
+166,Design of Biomass Energy Systems,3
+167,Design of Solar Energy Systems,3
+168,Design of Wind and Micro-Hydro Energy Systems,3
+172,Irrigation and Drainage Engineering II,3
+180,Soil Engineering,3
+181,Aquaculture Engineering I,3
+182,Aquaculture Engineering II,3
+190,Special Problems,3
+191,Special Topics,3
+191A,Special Topics,3
+199,Undergraduate Seminar,3
+200,Undergraduate Thesis,3
+200A,Practicum,3
+201,Adv Engineering Mathematics,3
+202,Engineering Similitude,3
+203,"Heat,Mass & Momentum Transport",3
+204,Advanced Thermodynamics,3
+205,Num Meth in Thermo-Fluid Engg,3
+225,Advanced Heat Transfer,3
+226,Convective Heat Transfer,3
+231,Instrumentation for Agricultural Engineering Research,3
+232,"Drying, Storage and Preservation of Cereal and Forage Crops",3
+233,Agricultural Process Engineering,3
+235,Agri Process Sys AnalyDes,3
+236,Physical Properties of Agricultural Materials,3
+237,Process Control in Agricultural Process Engineering,3
+238,Drying and Dehydration of Agricultural Crops,3
+240,Advanced Water Resources Planning,3
+241,Research Methods in Land and Water Resources Engineering,3
+242,Water Management,3
+243,Soil and Water Conservation,3
+244,Groundwater Hydrology,3
+245,Drainage Engineering,3
+246,Soil and Water Conservation,3
+247,Water Quality Control Engg,3
+248,Erosion and Sediment Transport,3
+249,Statistical Hydrology,3
+260,Experimental Stress Analysis,3
+261,Agricultural Machinery Design,3
+262,Advanced Soil Mechanics of Tillage and Traction,3
+263,Crop Establishment Engineering,3
+264,Pesticide App Equipment,3
+265,Designs of Harvesting and Threshing Machinery,3
+266,Advanced Agricultural Energy and Power Engineering,3
+270,Instrumentation for Engineering Research,3
+290,Special Problems,3
+291,Special Topics,3
+296,Special Problem in Agri Engg,3
+299,Grad Seminar in Agri Engg,3
+300,Master's Thesis,3
+400,Doctoral Dissertation,3
+11, Educational Psychology,3
+44,Evaluation of Learning Outcomes,3
+45,Methods of Agricultural Extension Teaching,3
+118,(now CED 118) Student Personnel Work,3
+122,(now CED 122) Principles and Methods ,3
+0,of Teaching,3
+141,Community Survey and Program Planning,3
+142,Concepts and Processes in Agricultural and ,3
+0,Natural Resources Knowledge Systems,3
+144,Group Dynamics,3
+153,Rural Government,3
+154,Community Organization,3
+160,Rural Sociology,3
+190,Special Problems,3
+191,Special Topics,3
+199,Undergraduate Seminar,3
+200,Undergraduate Thesis,3
+200A,Major Practice,3
+201,Philosophy of Education,3
+211,Advanced Educational Psychology,3
+212,Social Psychology,3
+220,Sociology of Education,3
+221,Advanced Educational Psychology,3
+222,Curricullum Development,3
+224,Economics of Education,3
+226,Educational Evaluation,3
+227,Administrative Theory,3
+228,Problems in the Management of Education,3
+229,Internship in Educational Management,3
+231,Vocational Education in Agriculture,3
+232,Teacher Training in Agriculture,3
+233,Experimental Learning Programs in Agriculture,3
+234,College Teaching in Agriculture,3
+240,Extension Science,3
+242,Adult Education in Agriculture,3
+244,Comparative Analysis of Extension Approaches,3
+246,Evaluation in Rural Development,3
+248,Participatory Extension,3
+250,Community Development,3
+251,Comparative Community Development,3
+252,Planning and Administration of Community ,3
+0,Development,3
+253,Comparative Local Government,3
+261,Social and Cultural Change,3
+262,Urban Sociology,3
+265,Sociology of Development,3
+267,Perspectives in Community Analysis,3
+281,Theory Construction,3
+282,Social Research Design,3
+290,Special Problems,3
+291,Special Topics,3
+291A,Special Topic,3
+299,Graduate Seminar in Agricultural Education,3
+300,Master's Thesis,3
+301,Philosophical Ideas in Development,3
+341,Philosophy of Rural Development,3
+365,Rural Institutions,3
+400,Doctoral Dissertation,3
+11,Introduction to Agriculture,3
+111,Introduction to Farming Systems,3
+121,Introduction to Ecological Agriculture,3
+161,Innovations and Entrepreneurship in Agriculture,3
+195,Research Methods in Agriculture and Food  Science,3
+199,Colloquium in Agriculture,3
+200,Agricultural Administration,3
+211,Design and Assessment of Farming Systems,3
+221,Advanced Ecological Agriculture,3
+299,Graduate Seminar,3
+299.1,Graduate Seminar on Rice,3
+50,Principles of Plant Breeding,3
+110,Grain Crops Production,3
+112,Methods in Crop Research,3
+114,Annual Industrial Crops Production,3
+116,Multiple Cropping,3
+118,Pasture and Feed Crops Production,3
+132,Biology of Weeds,3
+133,Weeds and their Control,3
+141,Field Crop Physiology,3
+150,Methods in Plant Breeding I,3
+152,Plant Genetic Resources Conservation and Management,3
+153,Methods in Plant Breeding II,3
+170,Fundamentals of Seed Technology,3
+172,Seed Storage,3
+190,Special Problems,3
+191,Special Topics,3
+199,Undergraduate Seminar,3
+200,Undergraduate Thesis,3
+200A,Major Practice,3
+210,Advanced Field Crop Physiology and Ecology,3
+218,Advanced Pasture and Fodder Crop Management and Utilization,3
+235,Physiology of Herbicides,3
+235.1,Lab on Mode of Action of Herbicides,3
+236,Herbicide-Soil Interactions,3
+240,Environmental Physiology,3
+241,Advanced Field Crop Physiology and Ecology,3
+250,Advanced Plant Breeding I,3
+251,Advanced Plant Breeding II,3
+253,Parasexual Methods of Plant Breeding,3
+254,Crop Evolution,3
+255,Population Genetics,3
+256,Quantitative Genetics,3
+258,Molecular Plant Breeding,3
+270,Seed Science and Technology for Seed Program Development,3
+290,Special Problems,3
+291,Special Topics,3
+299,Graduate Seminar,3
+300,Master's Thesis,3
+400,Doctoral Dissertation,3
+1,Fundamentals of Agrarian Reform,3
+115,Political Economy of Agrarian Reform,3
+201,Agrarian Reform and Agrarian Systems,3
+211,Economics of Agrarian Reform,3
+221,Legislation and Administration of Agrarian ,3
+,Reform Programs,3
+231,Social Dynamics in Agrarian Reform,3
+290,Special Problem,3
+290A,Practicum,3
+291,Special Topics,3
+295,Special Problem,3
+298,Field Studies,3
+299,Graduate Seminar,3
+299A,Graduate Seminar on Agrarian Reform,3
+299B,Graduate Seminar on Agrarian Reform,3
+300,Master's Thesis,3
+19,Finite Mathematics,3
+104,Mathematics of Investment,3
+110,Mathematical Modeling,3
+112,Introduction to Mathematical Optimization,3
+115,Introduction to Mathematical Decision Theory,3
+120,Mathematics of Investment,3
+130,Mathematical Methods in Biology,3
+150,Computer Programming,3
+151,Elementary Numerical Methods,3
+160,Linear Programming,3
+161,Nonlinear Programming,3
+162,Integer and Dynamic Programming,3
+165,Mathematical Programming I,3
+166,Mathematical Programming II,3
+167,Mathematical Models in Operations Research I,3
+168,Mathematical Models in Operations Research II,3
+170,Theory of Interest,3
+171,Life Insurance Mathematics I,3
+172,Life Insurance Mathematics II,3
+174,Measurement of Mortality,3
+176,Actuarial Science,3
+177,Introduction to Mathematical Finance,3
+178,Stochastic Calculus for Finance,3
+180,Introduction to Biomathematics,3
+190,Special Problems,3
+191,Special Topics,3
+191A,Special Topics in Operations Research,3
+191B,Special Topics in Actuarial Science,3
+198,Practicum,3
+199,Undergraduate Seminar,3
+266,Deterministic Mathematical Decision Models,3
+267,Probabilistic Mathematical Decision Models,3
+A,Livestock Production Technology,3
+B,Poultry and Swine Production Technology,3
+C,Ruminant Production Technology,3
+D,Dairy Production and Processing Technology,3
+1,Introduction to Animal Science,3
+1A,(now ANSC 1) Intro to Animal Science,3
+1B,(now ANSC 2) Intro to Livestock and Poultry ,3
+,Production,3
+2,Introduction to Livestock and Poultry Production,3
+65,(now ANSC 103) Principles of Animal Breeding,3
+70,Livestock and Poultry Feeding,3
+101,Anatomy and Physiology of Farm Animals,3
+102,Principles of Animal Nutrition,3
+103,Principles of Animal Breeding,3
+104,Livestock Sanitation and Disease Control,3
+105,Poultry Sanitation and Disease Control,3
+106,Slaughter and Meat Evaluation,3
+110,(now ANSC 111) Swine Production,3
+111,Swine Production,3
+116,Poultry Production,3
+117,Poultry Management,3
+120,(now ANSC 121) Beef Production,3
+121,Beef Production,3
+122,Dairy Production,3
+130,Dairy Production,3
+131,Meat Processing,3
+132,Comminuted Meat Products,3
+135,Introduction to Dairy Technology,3
+136,Milk Hygiene,3
+137,Cheese Technology,3
+140,(now ANSC 116) Poultry Production,3
+141,(now ANSC 143)Livestock and Poultry Feeding,3
+142,Nutritional Diseases of Farm Animals,3
+143,Livestock and Poultry Feeding,3
+150,(now ANSC 131) Meat Processing,3
+151,(now ANSC 106) Slaughter and Meat Evaluation,3
+152,(now ANSC 132) Comminuted Meat Products,3
+160,(now ANSC 101) Anatomy and Physiology of ,3
+,Farm Animals,3
+161,Methods in Animal Breeding,3
+165,(now ANSC 161) Methods in Animal Breeding,3
+170,(now ANSC 102) Principles of Animal Nutrition,3
+171,(now ANSC 173)Reproduction in Farm Animals,3
+172,The Fundamentals of Animal Climatology,3
+173,Reproduction in Farm Animals,3
+180,(now ANSC 104) Livestock Sanitation and ,3
+,Disease Control,3
+181,(now ANSC 105) Poultry Sanitation and Disease ,3
+,Control,3
+185,(now ANSC 172) The Fundamentals of Animal ,3
+,Climatology,3
+190,Special Problems,3
+191,Special Topics,3
+199,Undergraduate Seminar,3
+200,Undergraduate Thesis in Animal Science,3
+200A,Major Practice in Animal Science,3
+210,Advances in Swine Production,3
+220,Advanced Course in Cattle and Carabao ,3
+,Production,3
+225,Conservation of Grass and Forage Crops,3
+240,Advanced Poultry Production,3
+250,Advanced Course in Meats,3
+260,Artificial Breeding of Farm Animals,3
+261,Livestock Endocrinology,3
+262,Physiology of Reproduction,3
+263,Mammalian Anatomy,3
+264,Mammalian Physiology,3
+264.1,Mammalian Physiology Laboratory,3
+265,Advanced Animal Breeding,3
+266,Poultry Breeding,3
+267,Animal Reproductive Biotechnology,3
+270,Research Techniques in Animal Nutrition,3
+271,Feed Formulation and Quality Control,3
+272,Advanced Animal Nutrition,3
+280,Animal Parasitology,3
+285,Environmental Physiology of Domestic Animals,3
+290,Special Problems in Animal Science,3
+291,Special Topics in Animal Science,3
+299,Graduate Seminar in Animal Science,3
+300,Master's Thesis,3
+400,Doctoral Dissertation,3
+101,Physics in Scientific Instruments,3
+102,Physics of Electronic Devices,3
+103,Electronic Circuits,3
+104,Digital Computer Electronics,3
+105,Microprocessor-based Instrumentation,3
+106,Biophysical Instrumentation,3
+130.1,Logic Design Laboratory,3
+131,Microcomputer Architecture,3
+132,Embedded Systems Programming for Instrumentation,3
+140,Modeling and Simulation in Environmental Physics,3
+150,Introduction to Materials Development,3
+160,Microscopy and Spectroscopy for Materials Characterization,3
+101,Introduction to Sustainable Agricultural Systems,3
+120,Crop-Animal Systems,3
+145,Participatory Methodologies in Agric Systems Research & Ext.,3
+146,Agricultural Systems Analysis and Modelling,3
